@@ -1,3 +1,5 @@
+Taken from : https://anthonytippy.github.io/Crestron-EDK-Automating-Crestron-Administration-With-Powershell/
+
 # Get-Started/Installation
 1. Download and install the Crestron Powershell EDK 
 
